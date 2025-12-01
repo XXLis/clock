@@ -5,8 +5,7 @@ A clean and minimalist analog clock built with pure HTML, CSS, and vanilla JavaS
 ## Live Demo
 🔗 https://xxlis.github.io/clock
 
-![Clock preview](./preview.gif)  
-*(or ./screenshot.png if you add a screenshot)*
+
 
 ## Features
 - Real-time clock with smooth second hand movement
